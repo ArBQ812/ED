@@ -3,9 +3,9 @@
 ### tiutlo 3
 #### titulo 4
 
-*uno
-*dos
-*tres 
+* uno
+* dos
+* tres 
 
 
  ```c++
